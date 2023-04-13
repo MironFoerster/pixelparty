@@ -1,0 +1,10 @@
+import winsound as ws
+ws.Beep(500,200)
+ws.Beep(500,200)
+ws.Beep(500,200)
+ws.Beep(500,600)
+ws.Beep(500,600)
+ws.Beep(500,600)
+ws.Beep(500,200)
+ws.Beep(500,200)
+ws.Beep(500,200)
